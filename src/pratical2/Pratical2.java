@@ -16,6 +16,7 @@ public class Pratical2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    //forgot how to write java liao lo
     }
     
 }
